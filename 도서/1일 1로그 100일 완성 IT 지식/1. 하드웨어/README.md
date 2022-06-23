@@ -22,7 +22,9 @@
 
 ### :pushpin: 프로세서 속도와 심장 박동수
 * 폰 노이만 아키텍처
-<!-- TODO: 컴퓨터 아키텍처 다이어그램 이미지 삽입-->
+
+  ![image](https://user-images.githubusercontent.com/42609725/175309575-8117e6d3-0dc1-4752-a4a9-b2e375b8cdd8.png)
+
 
 * 컴퓨터 구조
 
